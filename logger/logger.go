@@ -1,4 +1,4 @@
-package env_config
+package logger
 
 import (
 	"github.com/blendle/zapdriver"
